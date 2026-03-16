@@ -1,4 +1,4 @@
-# 👋 Salut, je suis ELIAKIM MASSAMBA
+# 👋 Salut, je suis Eliakim Massamba
 
 ### 🚀 Développeur en herbe | Passionné par la technologie
 
