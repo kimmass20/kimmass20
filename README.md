@@ -14,7 +14,7 @@
 ### 🛠️ Langages & Outils
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,mysql,sqlite,java,git,github,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,sqlite,java,git,github,vscode,linux" />
   </a
 </p>
 
