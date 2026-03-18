@@ -12,10 +12,11 @@
 ---
 
 ### 🛠️ Langages & Outils
+### 🛠️ Langages & Outils
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,fontawesome,java,sqlite,mysql,git,vscode,github,linux,figma,linkedin" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode,linux" />
+  </a
 </p>
 
 ---
