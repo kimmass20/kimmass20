@@ -10,7 +10,7 @@
 - 🔭 Projets en cours : **E-commerce & SCOLARIS**
 - 🌱 Apprentissage : **Web, Backend, Systèmes**
 - 🎯 Objectif : créer des solutions utiles et innovantes
-- 🔐 Intérêt : **Cybersécurité & Tech**
+- 🔐 Intérêt : **Cybersécurité, Datascience & Tech**
 
 ---
 
