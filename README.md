@@ -7,7 +7,7 @@
 ---
 
 ## 👤 À propos de moi
-- 🔭 Projets en cours : **E-commerce & SCOLARIS**
+- 🔭 Projets en cours : **SCOLARIS**
 - 🌱 Apprentissage : **Web, Backend, Systèmes**
 - 🎯 Objectif : créer des solutions utiles et innovantes
 - 🔐 Intérêt : **Cybersécurité, Datascience & Tech**
