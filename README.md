@@ -16,7 +16,7 @@
 
 ## 🛠️ Stack technique
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,sqlite,java,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,express,mysql,sqlite,java,git,github,vscode,linux" />
 </p>
 
 ---
