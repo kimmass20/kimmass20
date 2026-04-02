@@ -37,7 +37,7 @@
 ---
 
 ## 📌 Projets principaux
-- 🛒 Boutique e-commerce (panier + filtres)
+- KELASI (app web de gestion scolaire)
 - 🔔 SCOLARIS (sonnerie intelligente)
 - 📚 Entraînement Git & GitHub
 
