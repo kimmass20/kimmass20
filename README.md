@@ -1,16 +1,16 @@
 # 👋 Salut, je suis Eliakim Massamba
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Développeur+Junior;Passionné+de+Technologie;Objectif+%3A+Innover+et+Créer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Développeur+junior;Passionné+de+technologie;Objectif+%3A+Innover+et+créer" />
 </p>
 
 ---
 
 ## 👤 À propos de moi
-- 🔭 Projet principal : **SCOLARIS**
-- 🌱 J’apprends actuellement : **Frontend, Backend et Systèmes**
-- 🎯 Objectif : concevoir des solutions utiles et innovantes
-- 🔐 Intérêts : **Cybersécurité, Data Science & Tech**
+- 🔭 Projets en cours : **SCOLARIS**
+- 🌱 Apprentissage : **Web, Backend, frontend, Systèmes**
+- 🎯 Objectif : créer des solutions utiles et innovantes
+- 🔐 Intérêt : **Cybersécurité, Datascience & Tech**
 
 ---
 
@@ -37,33 +37,19 @@
 ---
 
 ## 📌 Projets principaux
-- 🎓 KELASI — Application web de gestion scolaire
-- 🔔 SCOLARIS — Système de sonnerie intelligente
-- 📚 Apprentissage et pratique de Git & GitHub
+- KELASI (app web de gestion scolaire)
+- 🔔 SCOLARIS (sonnerie intelligente)
+- 📚 Entraînement Git & GitHub
 
 ---
 
 ## 🌍 Me contacter
 <p align="center">
-<a href="mailto:massk0170@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/TON_NOM_UTILISATEUR">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://twitter.com/kim_mass20">
-  <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
-<a href="https://github.com/kimmass20">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://instagram.com/kimmass20">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<a href="mailto:massk0170@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/TON_NOM_UTILISATEUR"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/kim_mass20"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://github.com/kimmass20"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://instagram.com/kimmass20"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
@@ -82,7 +68,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake (animation)
 <p align="center">
   <img src="https://raw.githubusercontent.com/kimmass20/kimmass20/output/github-contribution-grid-snake.svg" />
 </p>
